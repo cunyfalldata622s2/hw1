@@ -1,7 +1,7 @@
 # Fall 2018 DATA622.002 Homework #1
 
 1) Assigned on August 28, 2018
-2) Due on September 12, 2018 11:59 PM EST
+2) Due on September 9, 2018 11:59 PM EST
 3) 15 points possible, worth 15% of your final grade
 
 Python Courses at DataCamp (10 points)
