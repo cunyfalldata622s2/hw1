@@ -1,5 +1,4 @@
-# hw1
-Fall 2018 DATA622.002 Homework #1
+# Fall 2018 DATA622.002 Homework #1
 
 Assigned on August 28, 2018
 
